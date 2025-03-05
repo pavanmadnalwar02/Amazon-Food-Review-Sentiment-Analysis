@@ -1,13 +1,13 @@
 # Amazon-Food-Reviews - Sentiment Analysis using NLP
 
-*COMPANY*: CODTECH IT SOLUTIONS
-*NAME*: PAVAN MADNALWAR
-*INTERN ID*: CT08UKF
-*DOMAIN*: DATA SCIENCE
-*DURATION*:1 MONTH
-*MENTOR*: NEELA SANTOSH
+*COMPANY*: CODTECH IT SOLUTIONS/
+*NAME*: PAVAN MADNALWAR/
+*INTERN ID*: CT08UKF/
+*DOMAIN*: DATA SCIENCE/
+*DURATION*:1 MONTH/
+*MENTOR*: NEELA SANTOSH/
 
-Amazon Fine Food Reviews - Sentiment Analysis using NLP
+
 # 📌 Overview
 This project focuses on performing sentiment analysis on the Amazon Fine Food Reviews dataset using Natural Language Processing (NLP) techniques. The goal is to develop a machine learning model that can accurately classify reviews as positive or negative based on the text content.
 
