@@ -1,4 +1,4 @@
-# Amazon-Food-Reviews - Sentiment Analysis using NLP
+# Amazon-Fine-Food-Reviews - Sentiment Analysis using NLP
 
 **COMPANY**:  CODTECH IT SOLUTIONS\
 **NAME**:  PAVAN MADNALWAR\
